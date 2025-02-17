@@ -1,7 +1,7 @@
 import requests
 
-API_KEY = "USiuXE5U1NjGKCTs5SLv"  # Ganti dengan API Key dari Fonnte
-phone_numbers = ["6281809742506"]  # List nomor tujuan
+API_KEY = "YOUR_API"  # Ganti dengan API Key dari Fonnte
+phone_numbers = ["6281809*****"]  # List nomor tujuan
 
 message = """Yth. Kepada Calon Karyawan
 
@@ -9,7 +9,7 @@ Terima kasih telah melamar untuk posisi Staff Marketing di Manukashop melalui Lo
 
 Sebagai langkah pertama, kami mohon kesediaan Anda untuk mengisi formulir rekrutmen melalui tautan berikut:
 
-📌 https://forms.gle/jHZB4CJd7cY5fumR9
+📌 https://forms.gle/jHZB4CJd7cY5fumR1
 
 Formulir ini bertujuan untuk melengkapi data serta membantu kami memahami profil Anda dengan lebih baik. Harap mengisi formulir ini selambat-lambatnya HARI INI (Jam : 23.59).
 
